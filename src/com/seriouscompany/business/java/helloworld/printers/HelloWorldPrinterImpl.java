@@ -1,7 +1,7 @@
-package printers;
+package com.seriouscompany.business.java.helloworld.printers;
 
-import strategy.HelloWorldPrintingStrategy;
-import string.HelloWorldString;
+import com.seriouscompany.business.java.helloworld.strategy.HelloWorldPrintingStrategy;
+import com.seriouscompany.business.java.helloworld.string.HelloWorldString;
 
 public class HelloWorldPrinterImpl implements HelloWorldPrinter {
     

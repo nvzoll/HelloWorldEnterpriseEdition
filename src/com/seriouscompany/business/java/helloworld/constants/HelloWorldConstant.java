@@ -1,4 +1,4 @@
-package constants;
+package com.seriouscompany.business.java.helloworld.constants;
 
 public class HelloWorldConstant {
 

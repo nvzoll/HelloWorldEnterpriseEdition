@@ -1,6 +1,6 @@
-package string;
+package com.seriouscompany.business.java.helloworld.string;
 
-import constants.HelloWorldConstant;
+import com.seriouscompany.business.java.helloworld.constants.HelloWorldConstant;
 
 public class HelloWorldStringBuilder implements Builder<HelloWorldString> {
 

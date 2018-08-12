@@ -1,10 +1,10 @@
 package com.seriouscompany.business.java.helloworld;
 
-import printers.HelloWorldPrinter;
-import printers.HelloWorldPrinterImpl;
-import strategy.HelloWorldPrintingStrategy;
-import string.HelloWorldString;
-import string.HelloWorldStringBuilder;
+import com.seriouscompany.business.java.helloworld.printers.HelloWorldPrinter;
+import com.seriouscompany.business.java.helloworld.printers.HelloWorldPrinterImpl;
+import com.seriouscompany.business.java.helloworld.strategy.HelloWorldPrintingStrategy;
+import com.seriouscompany.business.java.helloworld.string.HelloWorldString;
+import com.seriouscompany.business.java.helloworld.string.HelloWorldStringBuilder;
 
 public class HelloWorld {
 

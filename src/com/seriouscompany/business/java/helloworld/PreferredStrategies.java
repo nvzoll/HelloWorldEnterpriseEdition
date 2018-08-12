@@ -1,7 +1,7 @@
 package com.seriouscompany.business.java.helloworld;
 
-import strategy.HelloWorldPrintingStrategy;
-import strategy.HelloWorldPrintingStrategyImpl;
+import com.seriouscompany.business.java.helloworld.strategy.HelloWorldPrintingStrategy;
+import com.seriouscompany.business.java.helloworld.strategy.HelloWorldPrintingStrategyImpl;
 
 public final class PreferredStrategies {
 

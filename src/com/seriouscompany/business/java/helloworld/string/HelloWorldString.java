@@ -1,4 +1,4 @@
-package string;
+package com.seriouscompany.business.java.helloworld.string;
 
 public class HelloWorldString extends StringWrapper {
     

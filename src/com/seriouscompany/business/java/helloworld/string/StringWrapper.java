@@ -1,4 +1,4 @@
-package string;
+package com.seriouscompany.business.java.helloworld.string;
 
 import java.io.UnsupportedEncodingException;
 import java.nio.charset.Charset;

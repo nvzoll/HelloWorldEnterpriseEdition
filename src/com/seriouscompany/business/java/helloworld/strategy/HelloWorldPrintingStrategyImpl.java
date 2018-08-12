@@ -1,6 +1,6 @@
-package strategy;
+package com.seriouscompany.business.java.helloworld.strategy;
 
-import string.HelloWorldString;
+import com.seriouscompany.business.java.helloworld.string.HelloWorldString;
 
 public class HelloWorldPrintingStrategyImpl implements HelloWorldPrintingStrategy {
 
